@@ -15,9 +15,6 @@ vector<int> bubbleSort(vector<int> &nums)
             if (nums[j] > nums[j + 1])
             {
                 swap(nums[j], nums[j + 1]);
-                int temp = nums[j];
-                nums[j] = nums[j + 1];
-                nums[j + 1] = temp;
                 didSwap = 1;
             }
         }
