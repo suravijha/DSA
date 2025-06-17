@@ -5,7 +5,8 @@ Note:
 2. The first index of each array is the most significant digit of the number. For example, if the array A[] = {4, 5, 1}, then the integer represented by this array is 451 and array B[] = {3, 4, 5} so the sum will be 451 + 345 = 796. So you need to return {7, 9, 6}.
 3. Both numbers do not have any leading zeros in them. And subsequently, the sum should not contain any leading zeros. */
 
-#include <bits/stdc++.h> 
+#include <bits/stdc++.h>
+using namespace std;
 vector<int> reverse(vector<int> v) {
     int start = 0;
     int end = v.size()-1;
