@@ -3,19 +3,25 @@
 // You may assume that each input would have exactly one solution, and you may not use the same element twice.
 // You can return the answer in any order.
 
-class Solution {
+class Solution
+{
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> twoSum(vector<int> &nums, int target)
+    {
         int n = nums.size();
-        unordered_map<int, int> hash; 
-
-        for (int i = 0; i < n; i++) {
+        unordered_map<int, int> hash;
+        vector<int> ans;
+        for (int i = 0; i < n; i++)
+        {
             int value = target - nums[i];
-            if (hash.find(value) != hash.end()) {
-                return {hash[value], i};
+            if (hash.find(value) != hash.end())
+            {
+                ans.push_back(hash[value]);
+                ans.push_back(i);
+                break;
             }
-            hash.insert({nums[i], i});
+            hash[nums[i]] = i;
         }
-        return {};
+        return ans;
     }
 };
