@@ -34,6 +34,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/suravijha/DSA/tree/master/0038-count-and-say) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/suravijha/DSA/tree/master/0443-string-compression) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
@@ -50,11 +51,13 @@ DSA Practice Questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -65,6 +68,7 @@ DSA Practice Questions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +81,12 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
