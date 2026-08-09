@@ -36,6 +36,7 @@ DSA Practice Questions
 | ------- |
 | [0038-count-and-say](https://github.com/suravijha/DSA/tree/master/0038-count-and-say) |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/suravijha/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0443-string-compression](https://github.com/suravijha/DSA/tree/master/0443-string-compression) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -58,6 +59,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/suravijha/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
@@ -92,6 +94,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/suravijha/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sorting
@@ -110,4 +113,5 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/suravijha/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
