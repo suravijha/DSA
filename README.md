@@ -5,6 +5,7 @@ DSA Practice Questions
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/suravijha/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -45,6 +46,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/suravijha/DSA/tree/master/0038-count-and-say) |
+| [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/suravijha/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -162,4 +164,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
