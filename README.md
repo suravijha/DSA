@@ -7,6 +7,7 @@ DSA Practice Questions
 | ------- |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suravijha/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@ DSA Practice Questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suravijha/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
