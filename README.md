@@ -79,6 +79,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/suravijha/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -100,6 +101,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -115,6 +117,7 @@ DSA Practice Questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -181,4 +184,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
