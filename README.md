@@ -7,6 +7,7 @@ DSA Practice Questions
 | ------- |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suravijha/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
@@ -16,6 +17,7 @@ DSA Practice Questions
 | ------- |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +43,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/suravijha/DSA/tree/master/0038-count-and-say) |
+| [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/suravijha/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
@@ -86,6 +89,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Divide and Conquer
@@ -123,12 +127,14 @@ DSA Practice Questions
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/suravijha/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
 ## Union-Find
 |  |
@@ -150,4 +156,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
