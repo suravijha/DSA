@@ -22,6 +22,7 @@ DSA Practice Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/suravijha/DSA/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/suravijha/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -55,6 +56,7 @@ DSA Practice Questions
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/suravijha/DSA/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/suravijha/DSA/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
@@ -193,4 +195,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/suravijha/DSA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
