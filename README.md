@@ -23,6 +23,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/suravijha/DSA/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/suravijha/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/suravijha/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -33,6 +34,7 @@ DSA Practice Questions
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/suravijha/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
@@ -58,6 +60,7 @@ DSA Practice Questions
 | ------- |
 | [0010-regular-expression-matching](https://github.com/suravijha/DSA/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/suravijha/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/suravijha/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/suravijha/DSA/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
@@ -75,6 +78,7 @@ DSA Practice Questions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/suravijha/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
