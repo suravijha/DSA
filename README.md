@@ -116,6 +116,7 @@ DSA Practice Questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suravijha/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## DP on Trees
 |  |
@@ -142,6 +143,7 @@ DSA Practice Questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suravijha/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -199,4 +201,16 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/suravijha/DSA/tree/master/0010-regular-expression-matching) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suravijha/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suravijha/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/suravijha/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
