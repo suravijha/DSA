@@ -57,6 +57,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/suravijha/DSA/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/suravijha/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/suravijha/DSA/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
@@ -107,6 +108,7 @@ DSA Practice Questions
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/suravijha/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
@@ -192,6 +194,7 @@ DSA Practice Questions
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/suravijha/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Graph Theory
 |  |
