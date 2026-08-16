@@ -6,6 +6,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/suravijha/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/suravijha/DSA/tree/master/0041-first-missing-positive) |
 | [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -116,6 +117,7 @@ DSA Practice Questions
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/suravijha/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/suravijha/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/suravijha/DSA/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
