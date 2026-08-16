@@ -7,6 +7,7 @@ DSA Practice Questions
 | ------- |
 | [0037-sudoku-solver](https://github.com/suravijha/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/suravijha/DSA/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/suravijha/DSA/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -26,6 +27,7 @@ DSA Practice Questions
 | ------- |
 | [0010-regular-expression-matching](https://github.com/suravijha/DSA/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/suravijha/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/suravijha/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/suravijha/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -37,6 +39,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/suravijha/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/suravijha/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
@@ -51,10 +54,12 @@ DSA Practice Questions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/suravijha/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/suravijha/DSA/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/suravijha/DSA/tree/master/0443-string-compression) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
