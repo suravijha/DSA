@@ -73,6 +73,7 @@ DSA Practice Questions
 | [0032-longest-valid-parentheses](https://github.com/suravijha/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/suravijha/DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/suravijha/DSA/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/suravijha/DSA/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
