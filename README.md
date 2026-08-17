@@ -191,6 +191,7 @@ DSA Practice Questions
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/suravijha/DSA/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 ## Geometry
 |  |
@@ -227,6 +228,7 @@ DSA Practice Questions
 | [0010-regular-expression-matching](https://github.com/suravijha/DSA/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/suravijha/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/suravijha/DSA/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/suravijha/DSA/tree/master/0060-permutation-sequence) |
 ## Linked List
 |  |
 | ------- |
