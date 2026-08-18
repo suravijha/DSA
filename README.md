@@ -109,6 +109,7 @@ DSA Practice Questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/suravijha/DSA/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/suravijha/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -151,6 +152,7 @@ DSA Practice Questions
 | ------- |
 | [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/suravijha/DSA/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 ## Design
@@ -226,6 +228,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/suravijha/DSA/tree/master/0207-course-schedule) |
 ## Recursion
 |  |
 | ------- |
@@ -260,4 +263,12 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/suravijha/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/suravijha/DSA/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/suravijha/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
