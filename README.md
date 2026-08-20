@@ -22,6 +22,7 @@ DSA Practice Questions
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/suravijha/DSA/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Dynamic Programming
@@ -47,6 +48,7 @@ DSA Practice Questions
 | [0042-trapping-rain-water](https://github.com/suravijha/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suravijha/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
+| [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
 |  |
@@ -63,6 +65,7 @@ DSA Practice Questions
 | [0042-trapping-rain-water](https://github.com/suravijha/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suravijha/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
+| [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +172,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
