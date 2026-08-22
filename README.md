@@ -14,6 +14,7 @@ DSA Practice Questions
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/suravijha/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0130-surrounded-regions](https://github.com/suravijha/DSA/tree/master/0130-surrounded-regions) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suravijha/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -58,6 +59,7 @@ DSA Practice Questions
 | ------- |
 | [0037-sudoku-solver](https://github.com/suravijha/DSA/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/suravijha/DSA/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/suravijha/DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
@@ -121,6 +123,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/suravijha/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/suravijha/DSA/tree/master/0207-course-schedule) |
@@ -173,6 +176,7 @@ DSA Practice Questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/suravijha/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/suravijha/DSA/tree/master/0207-course-schedule) |
@@ -228,6 +232,7 @@ DSA Practice Questions
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/suravijha/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 ## Math
