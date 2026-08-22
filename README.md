@@ -22,6 +22,7 @@ DSA Practice Questions
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/suravijha/DSA/tree/master/2811-check-if-it-is-possible-to-split-array) |
@@ -61,6 +62,7 @@ DSA Practice Questions
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@ DSA Practice Questions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -175,6 +178,7 @@ DSA Practice Questions
 | [0207-course-schedule](https://github.com/suravijha/DSA/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
@@ -225,6 +229,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
 | ------- |
