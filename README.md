@@ -132,6 +132,7 @@ DSA Practice Questions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/suravijha/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -184,6 +185,7 @@ DSA Practice Questions
 | [0210-course-schedule-ii](https://github.com/suravijha/DSA/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/suravijha/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Design
@@ -236,6 +238,7 @@ DSA Practice Questions
 | ------- |
 | [0130-surrounded-regions](https://github.com/suravijha/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/suravijha/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
@@ -276,6 +279,7 @@ DSA Practice Questions
 | [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/suravijha/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suravijha/DSA/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/suravijha/DSA/tree/master/0684-redundant-connection) |
 ## Recursion
 |  |
 | ------- |
