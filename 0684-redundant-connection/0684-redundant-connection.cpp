@@ -1,0 +1,50 @@
+class Solution {
+public:
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+        int n = edges.size();
+
+        vector<int> indegree(n + 1, 0);
+        vector<vector<int>> adj(n + 1);
+
+        for (auto& e: edges) {
+            adj[e[0]].push_back(e[1]);
+            adj[e[1]].push_back(e[0]);
+
+            indegree[e[0]]++;
+            indegree[e[1]]++;
+        }
+
+        queue<int> q;
+
+        for (int i = 1; i <= n; i++) {
+            if (indegree[i] == 1) {
+                q.push(i);
+            }
+        }
+
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+
+            indegree[node]--;
+
+            for (int n: adj[node]) {
+                indegree[n]--;
+
+                if (indegree[n] == 1) {
+                    q.push(n);
+                }
+            }
+        }
+
+        for (int i = edges.size() - 1; i >= 0; i--) {
+            int u = edges[i][0];
+            int v = edges[i][1];
+
+            if (indegree[u] == 2 && indegree[v])
+                return {u, v};
+        }
+        
+        return {};
+    }
+};
