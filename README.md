@@ -89,6 +89,7 @@ DSA Practice Questions
 | [0044-wildcard-matching](https://github.com/suravijha/DSA/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/suravijha/DSA/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
+| [0127-word-ladder](https://github.com/suravijha/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/suravijha/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -158,6 +159,7 @@ DSA Practice Questions
 | [0037-sudoku-solver](https://github.com/suravijha/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/suravijha/DSA/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/suravijha/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
@@ -178,6 +180,7 @@ DSA Practice Questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/suravijha/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/suravijha/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/suravijha/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
@@ -340,4 +343,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/suravijha/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
