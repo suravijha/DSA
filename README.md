@@ -25,6 +25,7 @@ DSA Practice Questions
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suravijha/DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -67,6 +68,7 @@ DSA Practice Questions
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,6 +142,7 @@ DSA Practice Questions
 | [0684-redundant-connection](https://github.com/suravijha/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/suravijha/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -147,6 +150,7 @@ DSA Practice Questions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suravijha/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suravijha/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/suravijha/DSA/tree/master/0981-time-based-key-value-store) |
 ## Binary Tree
 |  |
@@ -196,6 +200,7 @@ DSA Practice Questions
 | [0684-redundant-connection](https://github.com/suravijha/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/suravijha/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
@@ -223,6 +228,7 @@ DSA Practice Questions
 | [0355-design-twitter](https://github.com/suravijha/DSA/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suravijha/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/suravijha/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Data Stream
 |  |
@@ -252,6 +258,7 @@ DSA Practice Questions
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/suravijha/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suravijha/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Math
 |  |
@@ -368,6 +375,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/suravijha/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -396,4 +404,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/suravijha/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
