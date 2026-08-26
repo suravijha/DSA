@@ -23,6 +23,7 @@ DSA Practice Questions
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0416-partition-equal-subset-sum](https://github.com/suravijha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -228,6 +229,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
@@ -308,6 +310,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/suravijha/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suravijha/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Graph Theory
@@ -459,4 +462,9 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
