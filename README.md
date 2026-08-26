@@ -22,6 +22,7 @@ DSA Practice Questions
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/suravijha/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
+| [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0416-partition-equal-subset-sum](https://github.com/suravijha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -190,6 +191,7 @@ DSA Practice Questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suravijha/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## DP on Trees
 |  |
@@ -225,6 +227,7 @@ DSA Practice Questions
 ## Sorting
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
@@ -233,6 +236,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suravijha/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0355-design-twitter](https://github.com/suravijha/DSA/tree/master/0355-design-twitter) |
@@ -439,4 +443,20 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
