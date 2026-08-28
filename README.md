@@ -94,6 +94,7 @@ DSA Practice Questions
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/suravijha/DSA/tree/master/0443-string-compression) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suravijha/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ DSA Practice Questions
 | [1143-longest-common-subsequence](https://github.com/suravijha/DSA/tree/master/1143-longest-common-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suravijha/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suravijha/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -469,4 +471,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suravijha/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
