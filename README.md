@@ -54,6 +54,7 @@ DSA Practice Questions
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/suravijha/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/suravijha/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/suravijha/DSA/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/suravijha/DSA/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/suravijha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suravijha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -297,6 +298,7 @@ DSA Practice Questions
 | [0062-unique-paths](https://github.com/suravijha/DSA/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/suravijha/DSA/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/suravijha/DSA/tree/master/0233-number-of-digit-one) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -345,6 +347,7 @@ DSA Practice Questions
 | [0044-wildcard-matching](https://github.com/suravijha/DSA/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/suravijha/DSA/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/suravijha/DSA/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/suravijha/DSA/tree/master/0233-number-of-digit-one) |
 ## Linked List
 |  |
 | ------- |
