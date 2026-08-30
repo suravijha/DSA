@@ -35,6 +35,7 @@ DSA Practice Questions
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suravijha/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/suravijha/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/suravijha/DSA/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -129,6 +130,7 @@ DSA Practice Questions
 | ------- |
 | [0044-wildcard-matching](https://github.com/suravijha/DSA/tree/master/0044-wildcard-matching) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/suravijha/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/suravijha/DSA/tree/master/2811-check-if-it-is-possible-to-split-array) |
 ## Bracket Sequences
 |  |
