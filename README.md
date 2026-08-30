@@ -30,6 +30,7 @@ DSA Practice Questions
 | [0416-partition-equal-subset-sum](https://github.com/suravijha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/suravijha/DSA/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/suravijha/DSA/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
@@ -200,6 +201,7 @@ DSA Practice Questions
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/suravijha/DSA/tree/master/0355-design-twitter) |
+| [0645-set-mismatch](https://github.com/suravijha/DSA/tree/master/0645-set-mismatch) |
 | [0981-time-based-key-value-store](https://github.com/suravijha/DSA/tree/master/0981-time-based-key-value-store) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
@@ -248,6 +250,7 @@ DSA Practice Questions
 | [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0645-set-mismatch](https://github.com/suravijha/DSA/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -465,6 +468,7 @@ DSA Practice Questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/suravijha/DSA/tree/master/0645-set-mismatch) |
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
