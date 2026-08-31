@@ -363,6 +363,7 @@ DSA Practice Questions
 | [0023-merge-k-sorted-lists](https://github.com/suravijha/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/suravijha/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0355-design-twitter](https://github.com/suravijha/DSA/tree/master/0355-design-twitter) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/suravijha/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Merge Sort
 |  |
 | ------- |
