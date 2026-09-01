@@ -13,6 +13,7 @@ DSA Practice Questions
 | [0084-largest-rectangle-in-histogram](https://github.com/suravijha/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suravijha/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/suravijha/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/suravijha/DSA/tree/master/0130-surrounded-regions) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
@@ -145,6 +146,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suravijha/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -173,6 +175,7 @@ DSA Practice Questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suravijha/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suravijha/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/suravijha/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -183,6 +186,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suravijha/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -209,6 +213,7 @@ DSA Practice Questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suravijha/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suravijha/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/suravijha/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
