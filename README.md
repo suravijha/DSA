@@ -46,6 +46,7 @@ DSA Practice Questions
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3686-number-of-stable-subsequences](https://github.com/suravijha/DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3903-smallest-stable-index-i](https://github.com/suravijha/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/suravijha/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -517,4 +518,5 @@ DSA Practice Questions
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/suravijha/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/suravijha/DSA/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
