@@ -56,6 +56,7 @@ DSA Practice Questions
 | [0044-wildcard-matching](https://github.com/suravijha/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/suravijha/DSA/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/suravijha/DSA/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/suravijha/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/suravijha/DSA/tree/master/0131-palindrome-partitioning) |
@@ -117,6 +118,7 @@ DSA Practice Questions
 | [0044-wildcard-matching](https://github.com/suravijha/DSA/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/suravijha/DSA/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
+| [0115-distinct-subsequences](https://github.com/suravijha/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/suravijha/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/suravijha/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
