@@ -317,6 +317,7 @@ DSA Practice Questions
 | [0224-basic-calculator](https://github.com/suravijha/DSA/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/suravijha/DSA/tree/master/0233-number-of-digit-one) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [3870-count-commas-in-range](https://github.com/suravijha/DSA/tree/master/3870-count-commas-in-range) |
 ## Geometry
 |  |
 | ------- |
