@@ -5,6 +5,7 @@ DSA Practice Questions
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/suravijha/DSA/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/suravijha/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/suravijha/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/suravijha/DSA/tree/master/0042-trapping-rain-water) |
@@ -103,6 +104,7 @@ DSA Practice Questions
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/suravijha/DSA/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/suravijha/DSA/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/suravijha/DSA/tree/master/0443-string-compression) |
@@ -255,6 +257,7 @@ DSA Practice Questions
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/suravijha/DSA/tree/master/0016-3sum-closest) |
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
