@@ -39,6 +39,7 @@ DSA Practice Questions
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
 | [1470-shuffle-the-array](https://github.com/suravijha/DSA/tree/master/1470-shuffle-the-array) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suravijha/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/suravijha/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suravijha/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -94,6 +95,7 @@ DSA Practice Questions
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -178,6 +180,7 @@ DSA Practice Questions
 | [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suravijha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -244,6 +247,7 @@ DSA Practice Questions
 | [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suravijha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Design
 |  |
 | ------- |
@@ -556,4 +560,9 @@ DSA Practice Questions
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/suravijha/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Articulation Point
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
