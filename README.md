@@ -20,6 +20,7 @@ DSA Practice Questions
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suravijha/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/suravijha/DSA/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/suravijha/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/suravijha/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/suravijha/DSA/tree/master/0200-number-of-islands) |
@@ -262,6 +263,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/suravijha/DSA/tree/master/0016-3sum-closest) |
+| [0164-maximum-gap](https://github.com/suravijha/DSA/tree/master/0164-maximum-gap) |
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -528,6 +530,7 @@ DSA Practice Questions
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/suravijha/DSA/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
 ## Enumeration
 |  |
@@ -565,4 +568,12 @@ DSA Practice Questions
 |  |
 | ------- |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/suravijha/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/suravijha/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
