@@ -37,6 +37,7 @@ DSA Practice Questions
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
 | [1470-shuffle-the-array](https://github.com/suravijha/DSA/tree/master/1470-shuffle-the-array) |
@@ -226,6 +227,7 @@ DSA Practice Questions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suravijha/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/suravijha/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## DP on Trees
 |  |
@@ -270,6 +272,7 @@ DSA Practice Questions
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0645-set-mismatch](https://github.com/suravijha/DSA/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/suravijha/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -285,6 +288,7 @@ DSA Practice Questions
 | [0743-network-delay-time](https://github.com/suravijha/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suravijha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Data Stream
 |  |
@@ -397,6 +401,7 @@ DSA Practice Questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suravijha/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/suravijha/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -532,6 +537,7 @@ DSA Practice Questions
 | ------- |
 | [0164-maximum-gap](https://github.com/suravijha/DSA/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -572,8 +578,13 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/suravijha/DSA/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/suravijha/DSA/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
