@@ -136,6 +136,7 @@ DSA Practice Questions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0443-string-compression](https://github.com/suravijha/DSA/tree/master/0443-string-compression) |
+| [0753-cracking-the-safe](https://github.com/suravijha/DSA/tree/master/0753-cracking-the-safe) |
 | [0981-time-based-key-value-store](https://github.com/suravijha/DSA/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/suravijha/DSA/tree/master/1143-longest-common-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -181,6 +182,7 @@ DSA Practice Questions
 | [0684-redundant-connection](https://github.com/suravijha/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/suravijha/DSA/tree/master/0743-network-delay-time) |
+| [0753-cracking-the-safe](https://github.com/suravijha/DSA/tree/master/0753-cracking-the-safe) |
 | [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suravijha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -382,6 +384,7 @@ DSA Practice Questions
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/suravijha/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/suravijha/DSA/tree/master/0743-network-delay-time) |
+| [0753-cracking-the-safe](https://github.com/suravijha/DSA/tree/master/0753-cracking-the-safe) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suravijha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/suravijha/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suravijha/DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -469,10 +472,12 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/suravijha/DSA/tree/master/0753-cracking-the-safe) |
 ## Eulerian Path
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/suravijha/DSA/tree/master/0753-cracking-the-safe) |
 ## Semi-Eulerian Graph
 |  |
 | ------- |
@@ -594,4 +599,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
+## Eulerian Graph
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/suravijha/DSA/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
