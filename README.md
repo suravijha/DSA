@@ -222,6 +222,7 @@ DSA Practice Questions
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/suravijha/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/suravijha/DSA/tree/master/0355-design-twitter) |
+| [0519-random-flip-matrix](https://github.com/suravijha/DSA/tree/master/0519-random-flip-matrix) |
 | [0645-set-mismatch](https://github.com/suravijha/DSA/tree/master/0645-set-mismatch) |
 | [0981-time-based-key-value-store](https://github.com/suravijha/DSA/tree/master/0981-time-based-key-value-store) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -342,6 +343,7 @@ DSA Practice Questions
 | [0233-number-of-digit-one](https://github.com/suravijha/DSA/tree/master/0233-number-of-digit-one) |
 | [0470-implement-rand10-using-rand7](https://github.com/suravijha/DSA/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/suravijha/DSA/tree/master/0478-generate-random-point-in-a-circle) |
+| [0519-random-flip-matrix](https://github.com/suravijha/DSA/tree/master/0519-random-flip-matrix) |
 | [0836-rectangle-overlap](https://github.com/suravijha/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3870-count-commas-in-range](https://github.com/suravijha/DSA/tree/master/3870-count-commas-in-range) |
@@ -578,6 +580,7 @@ DSA Practice Questions
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/suravijha/DSA/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/suravijha/DSA/tree/master/0478-generate-random-point-in-a-circle) |
+| [0519-random-flip-matrix](https://github.com/suravijha/DSA/tree/master/0519-random-flip-matrix) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -609,4 +612,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0753-cracking-the-safe](https://github.com/suravijha/DSA/tree/master/0753-cracking-the-safe) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0519-random-flip-matrix](https://github.com/suravijha/DSA/tree/master/0519-random-flip-matrix) |
 <!---LeetCode Topics End-->
