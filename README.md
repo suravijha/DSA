@@ -11,6 +11,7 @@ DSA Practice Questions
 | [0042-trapping-rain-water](https://github.com/suravijha/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/suravijha/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/suravijha/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/suravijha/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/suravijha/DSA/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suravijha/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -277,6 +278,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/suravijha/DSA/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/suravijha/DSA/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/suravijha/DSA/tree/master/0164-maximum-gap) |
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
@@ -321,6 +323,7 @@ DSA Practice Questions
 | ------- |
 | [0037-sudoku-solver](https://github.com/suravijha/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/suravijha/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/suravijha/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/suravijha/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/suravijha/DSA/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/suravijha/DSA/tree/master/0131-palindrome-partitioning) |
