@@ -14,6 +14,7 @@ DSA Practice Questions
 | [0047-permutations-ii](https://github.com/suravijha/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/suravijha/DSA/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/suravijha/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/suravijha/DSA/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/suravijha/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
@@ -67,6 +68,7 @@ DSA Practice Questions
 | [0045-jump-game-ii](https://github.com/suravijha/DSA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/suravijha/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/suravijha/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/suravijha/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/suravijha/DSA/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/suravijha/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -97,6 +99,7 @@ DSA Practice Questions
 | ------- |
 | [0037-sudoku-solver](https://github.com/suravijha/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/suravijha/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/suravijha/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/suravijha/DSA/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/suravijha/DSA/tree/master/0174-dungeon-game) |
