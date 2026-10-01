@@ -337,6 +337,7 @@ DSA Practice Questions
 | [0047-permutations-ii](https://github.com/suravijha/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/suravijha/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/suravijha/DSA/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/suravijha/DSA/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/suravijha/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
