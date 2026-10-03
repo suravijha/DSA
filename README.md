@@ -340,6 +340,7 @@ DSA Practice Questions
 | [0051-n-queens](https://github.com/suravijha/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/suravijha/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/suravijha/DSA/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/suravijha/DSA/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/suravijha/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
@@ -360,6 +361,7 @@ DSA Practice Questions
 | ------- |
 | [0060-permutation-sequence](https://github.com/suravijha/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/suravijha/DSA/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/suravijha/DSA/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/suravijha/DSA/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/suravijha/DSA/tree/master/0233-number-of-digit-one) |
@@ -547,6 +549,7 @@ DSA Practice Questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/suravijha/DSA/tree/master/0089-gray-code) |
 | [0645-set-mismatch](https://github.com/suravijha/DSA/tree/master/0645-set-mismatch) |
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
