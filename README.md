@@ -82,6 +82,7 @@ DSA Practice Questions
 | [0233-number-of-digit-one](https://github.com/suravijha/DSA/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/suravijha/DSA/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/suravijha/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0678-valid-parenthesis-string](https://github.com/suravijha/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suravijha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/suravijha/DSA/tree/master/1143-longest-common-subsequence) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/suravijha/DSA/tree/master/2811-check-if-it-is-possible-to-split-array) |
@@ -95,6 +96,7 @@ DSA Practice Questions
 | [0084-largest-rectangle-in-histogram](https://github.com/suravijha/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/suravijha/DSA/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/suravijha/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
@@ -153,6 +155,7 @@ DSA Practice Questions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0443-string-compression](https://github.com/suravijha/DSA/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/suravijha/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0753-cracking-the-safe](https://github.com/suravijha/DSA/tree/master/0753-cracking-the-safe) |
 | [0981-time-based-key-value-store](https://github.com/suravijha/DSA/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/suravijha/DSA/tree/master/1143-longest-common-subsequence) |
@@ -165,6 +168,7 @@ DSA Practice Questions
 | ------- |
 | [0044-wildcard-matching](https://github.com/suravijha/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/suravijha/DSA/tree/master/0045-jump-game-ii) |
+| [0678-valid-parenthesis-string](https://github.com/suravijha/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suravijha/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/suravijha/DSA/tree/master/2811-check-if-it-is-possible-to-split-array) |
@@ -173,6 +177,7 @@ DSA Practice Questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/suravijha/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suravijha/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/suravijha/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
