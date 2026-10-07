@@ -146,6 +146,7 @@ DSA Practice Questions
 | [0068-text-justification](https://github.com/suravijha/DSA/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/suravijha/DSA/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/suravijha/DSA/tree/master/0087-scramble-string) |
+| [0093-restore-ip-addresses](https://github.com/suravijha/DSA/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/suravijha/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/suravijha/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/suravijha/DSA/tree/master/0131-palindrome-partitioning) |
@@ -355,6 +356,7 @@ DSA Practice Questions
 | [0052-n-queens-ii](https://github.com/suravijha/DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/suravijha/DSA/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/suravijha/DSA/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/suravijha/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/suravijha/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
