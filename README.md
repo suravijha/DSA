@@ -155,6 +155,7 @@ DSA Practice Questions
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/suravijha/DSA/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/suravijha/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0443-string-compression](https://github.com/suravijha/DSA/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/suravijha/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -281,6 +282,7 @@ DSA Practice Questions
 | [0207-course-schedule](https://github.com/suravijha/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/suravijha/DSA/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/suravijha/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/suravijha/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
@@ -356,6 +358,7 @@ DSA Practice Questions
 | [0131-palindrome-partitioning](https://github.com/suravijha/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/suravijha/DSA/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/suravijha/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
 ## Union-Find
 |  |
