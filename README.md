@@ -72,6 +72,7 @@ DSA Practice Questions
 | [0072-edit-distance](https://github.com/suravijha/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/suravijha/DSA/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/suravijha/DSA/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/suravijha/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/suravijha/DSA/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/suravijha/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -194,6 +195,7 @@ DSA Practice Questions
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/suravijha/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suravijha/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -227,6 +229,7 @@ DSA Practice Questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/suravijha/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suravijha/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suravijha/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/suravijha/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -237,6 +240,7 @@ DSA Practice Questions
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/suravijha/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suravijha/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suravijha/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suravijha/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -382,6 +386,7 @@ DSA Practice Questions
 | [0060-permutation-sequence](https://github.com/suravijha/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/suravijha/DSA/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/suravijha/DSA/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/suravijha/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/suravijha/DSA/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/suravijha/DSA/tree/master/0233-number-of-digit-one) |
