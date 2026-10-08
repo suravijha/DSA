@@ -100,6 +100,7 @@ DSA Practice Questions
 | [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/suravijha/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suravijha/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/suravijha/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
 |  |
@@ -164,6 +165,7 @@ DSA Practice Questions
 | [0856-score-of-parentheses](https://github.com/suravijha/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suravijha/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/suravijha/DSA/tree/master/0981-time-based-key-value-store) |
+| [1021-remove-outermost-parentheses](https://github.com/suravijha/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/suravijha/DSA/tree/master/1143-longest-common-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suravijha/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -187,6 +189,7 @@ DSA Practice Questions
 | [0678-valid-parenthesis-string](https://github.com/suravijha/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/suravijha/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/suravijha/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/suravijha/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Tree
 |  |
