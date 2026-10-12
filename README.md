@@ -681,4 +681,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0519-random-flip-matrix](https://github.com/suravijha/DSA/tree/master/0519-random-flip-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/suravijha/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
