@@ -56,6 +56,7 @@ DSA Practice Questions
 | [2778-sum-of-squares-of-special-elements](https://github.com/suravijha/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/suravijha/DSA/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suravijha/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suravijha/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3686-number-of-stable-subsequences](https://github.com/suravijha/DSA/tree/master/3686-number-of-stable-subsequences) |
@@ -278,6 +279,7 @@ DSA Practice Questions
 | [0645-set-mismatch](https://github.com/suravijha/DSA/tree/master/0645-set-mismatch) |
 | [0981-time-based-key-value-store](https://github.com/suravijha/DSA/tree/master/0981-time-based-key-value-store) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suravijha/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suravijha/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
@@ -605,11 +607,13 @@ DSA Practice Questions
 | ------- |
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/suravijha/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suravijha/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/suravijha/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suravijha/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Sweep Line
 |  |
 | ------- |
