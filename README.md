@@ -59,6 +59,7 @@ DSA Practice Questions
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suravijha/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suravijha/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3686-number-of-stable-subsequences](https://github.com/suravijha/DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suravijha/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/suravijha/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -281,6 +282,7 @@ DSA Practice Questions
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suravijha/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suravijha/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suravijha/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -343,6 +345,7 @@ DSA Practice Questions
 | [2333-minimum-sum-of-squared-difference](https://github.com/suravijha/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suravijha/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suravijha/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suravijha/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
