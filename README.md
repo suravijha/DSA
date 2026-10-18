@@ -47,6 +47,7 @@ DSA Practice Questions
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
 | [1470-shuffle-the-array](https://github.com/suravijha/DSA/tree/master/1470-shuffle-the-array) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suravijha/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/suravijha/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suravijha/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -92,6 +93,7 @@ DSA Practice Questions
 | [0678-valid-parenthesis-string](https://github.com/suravijha/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suravijha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/suravijha/DSA/tree/master/1143-longest-common-subsequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/suravijha/DSA/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [3686-number-of-stable-subsequences](https://github.com/suravijha/DSA/tree/master/3686-number-of-stable-subsequences) |
 ## Stack
@@ -217,6 +219,7 @@ DSA Practice Questions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suravijha/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -251,6 +254,7 @@ DSA Practice Questions
 | [0703-kth-largest-element-in-a-stream](https://github.com/suravijha/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/suravijha/DSA/tree/master/0981-time-based-key-value-store) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suravijha/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
@@ -263,6 +267,7 @@ DSA Practice Questions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/suravijha/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/suravijha/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,6 +298,7 @@ DSA Practice Questions
 | [0315-count-of-smaller-numbers-after-self](https://github.com/suravijha/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suravijha/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## DP on Trees
 |  |
@@ -400,6 +406,7 @@ DSA Practice Questions
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/suravijha/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suravijha/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
@@ -417,6 +424,7 @@ DSA Practice Questions
 | [0519-random-flip-matrix](https://github.com/suravijha/DSA/tree/master/0519-random-flip-matrix) |
 | [0836-rectangle-overlap](https://github.com/suravijha/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/suravijha/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/suravijha/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/suravijha/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -439,6 +447,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/suravijha/DSA/tree/master/0140-word-break-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -522,6 +531,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/suravijha/DSA/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Quickselect
 |  |
 | ------- |
@@ -697,4 +707,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/suravijha/DSA/tree/master/0175-combine-two-tables) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
