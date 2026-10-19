@@ -50,6 +50,7 @@ DSA Practice Questions
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suravijha/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1929-concatenation-of-array](https://github.com/suravijha/DSA/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/suravijha/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/suravijha/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/suravijha/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suravijha/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -255,6 +256,7 @@ DSA Practice Questions
 | [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/suravijha/DSA/tree/master/0981-time-based-key-value-store) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/suravijha/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suravijha/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
@@ -348,6 +350,7 @@ DSA Practice Questions
 | [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/suravijha/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/suravijha/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suravijha/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suravijha/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
