@@ -64,6 +64,7 @@ DSA Practice Questions
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suravijha/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3686-number-of-stable-subsequences](https://github.com/suravijha/DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suravijha/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/suravijha/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/suravijha/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/suravijha/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -356,6 +357,7 @@ DSA Practice Questions
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suravijha/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suravijha/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/suravijha/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -431,6 +433,7 @@ DSA Practice Questions
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/suravijha/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/suravijha/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/suravijha/DSA/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/suravijha/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
 |  |
 | ------- |
@@ -651,6 +654,7 @@ DSA Practice Questions
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suravijha/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suravijha/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/suravijha/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Treap
 |  |
 | ------- |
