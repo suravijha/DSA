@@ -1,38 +1,43 @@
 class Solution {
 public:
-    int sortableIntegers(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> target = nums;
-        sort(target.begin(), target.end());
+    bool check(vector<int>& nums, int k) {
+        int n = nums.size(), prev = 0;
 
-        int ans = 0;
+        for (int i = 0; i < n; i += k) {
+            int cnt = 0;
+            int mini = nums[i], maxi = nums[i];
 
-        for (int k = 1; k <= n; k++) {
-            if (n % k != 0) continue;
+            for (int j = i; j < i + k - 1; j++) {
+                if (nums[j] > nums[j + 1])
+                    cnt++;
 
-            bool valid = true;
-
-            for (int start = 0; start < n && valid; start += k) {
-                vector<int> a(nums.begin() + start, nums.begin() + start + k);
-                vector<int> b(target.begin() + start, target.begin() + start + k);
-
-                sort(a.begin(), a.end());
-
-                if (a != b) {
-                    valid = false;
-                    break;
-                }
-
-                int descents = 0;
-                for (int i = start; i < start + k; i++) {
-                    int next = (i + 1 == start + k) ? start : i + 1;
-                    if (nums[i] > nums[next]) descents++;
-                }
-
-                if (descents > 1) valid = false;
+                mini = min(mini, nums[j + 1]);
+                maxi = max(maxi, nums[j + 1]);
             }
 
-            if (valid) ans += k;
+            if (nums[i + k - 1] > nums[i])
+                cnt++;
+
+            if (cnt > 1 || prev > mini)
+                return false;
+
+            prev = maxi;
+        }
+
+        return true;
+    }
+
+    int sortableIntegers(vector<int>& nums) {
+        int n = nums.size(), ans = 0;
+
+        for (int k = 1; k * k <= n; k++) {
+            if (n % k == 0) {
+                if (check(nums, k))
+                    ans += k;
+
+                if (k * k != n && check(nums, n / k))
+                    ans += n / k;
+            }
         }
 
         return ans;
