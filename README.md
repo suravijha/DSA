@@ -184,6 +184,7 @@ DSA Practice Questions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/suravijha/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suravijha/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2409-count-days-spent-together](https://github.com/suravijha/DSA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suravijha/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suravijha/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/suravijha/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -433,6 +434,7 @@ DSA Practice Questions
 | [0836-rectangle-overlap](https://github.com/suravijha/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/suravijha/DSA/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/suravijha/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/suravijha/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/suravijha/DSA/tree/master/3871-count-commas-in-range-ii) |
