@@ -63,6 +63,7 @@ DSA Practice Questions
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suravijha/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suravijha/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/suravijha/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3686-number-of-stable-subsequences](https://github.com/suravijha/DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suravijha/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -134,6 +135,7 @@ DSA Practice Questions
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
 | [1254-number-of-closed-islands](https://github.com/suravijha/DSA/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suravijha/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -252,6 +254,7 @@ DSA Practice Questions
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2097-valid-arrangement-of-pairs](https://github.com/suravijha/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suravijha/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -334,6 +337,7 @@ DSA Practice Questions
 | [1254-number-of-closed-islands](https://github.com/suravijha/DSA/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suravijha/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
 | ------- |
@@ -423,6 +427,7 @@ DSA Practice Questions
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suravijha/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suravijha/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
