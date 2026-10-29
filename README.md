@@ -67,6 +67,7 @@ DSA Practice Questions
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/suravijha/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3686-number-of-stable-subsequences](https://github.com/suravijha/DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suravijha/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/suravijha/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/suravijha/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/suravijha/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/suravijha/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -194,6 +195,7 @@ DSA Practice Questions
 | [2409-count-days-spent-together](https://github.com/suravijha/DSA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suravijha/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suravijha/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/suravijha/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/suravijha/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
@@ -233,6 +235,7 @@ DSA Practice Questions
 | [0703-kth-largest-element-in-a-stream](https://github.com/suravijha/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/suravijha/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/suravijha/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,6 +261,7 @@ DSA Practice Questions
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2097-valid-arrangement-of-pairs](https://github.com/suravijha/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suravijha/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/suravijha/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -316,6 +320,7 @@ DSA Practice Questions
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suravijha/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/suravijha/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -636,6 +641,7 @@ DSA Practice Questions
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suravijha/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/suravijha/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/suravijha/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/suravijha/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hamiltonian Path
 |  |
@@ -647,12 +653,14 @@ DSA Practice Questions
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/suravijha/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suravijha/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/suravijha/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/suravijha/DSA/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/suravijha/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suravijha/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/suravijha/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sweep Line
 |  |
 | ------- |
