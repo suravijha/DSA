@@ -197,6 +197,7 @@ DSA Practice Questions
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suravijha/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/suravijha/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/suravijha/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suravijha/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -394,6 +395,7 @@ DSA Practice Questions
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suravijha/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suravijha/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suravijha/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Data Stream
 |  |
 | ------- |
@@ -503,6 +505,7 @@ DSA Practice Questions
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/suravijha/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suravijha/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2097-valid-arrangement-of-pairs](https://github.com/suravijha/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suravijha/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -579,6 +582,7 @@ DSA Practice Questions
 | ------- |
 | [0743-network-delay-time](https://github.com/suravijha/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suravijha/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/suravijha/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
