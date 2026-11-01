@@ -65,6 +65,7 @@ DSA Practice Questions
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suravijha/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suravijha/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/suravijha/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/suravijha/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3686-number-of-stable-subsequences](https://github.com/suravijha/DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suravijha/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/suravijha/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -103,6 +104,7 @@ DSA Practice Questions
 | [1143-longest-common-subsequence](https://github.com/suravijha/DSA/tree/master/1143-longest-common-subsequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/suravijha/DSA/tree/master/2811-check-if-it-is-possible-to-split-array) |
+| [3665-twisted-mirror-path-count](https://github.com/suravijha/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3686-number-of-stable-subsequences](https://github.com/suravijha/DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/suravijha/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -139,6 +141,7 @@ DSA Practice Questions
 | [1254-number-of-closed-islands](https://github.com/suravijha/DSA/tree/master/1254-number-of-closed-islands) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/suravijha/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/suravijha/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/suravijha/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
 |  |
