@@ -37,6 +37,7 @@ DSA Practice Questions
 | [0332-reconstruct-itinerary](https://github.com/suravijha/DSA/tree/master/0332-reconstruct-itinerary) |
 | [0416-partition-equal-subset-sum](https://github.com/suravijha/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/suravijha/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/suravijha/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/suravijha/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/suravijha/DSA/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/suravijha/DSA/tree/master/0695-max-area-of-island) |
@@ -451,6 +452,7 @@ DSA Practice Questions
 | [0149-max-points-on-a-line](https://github.com/suravijha/DSA/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/suravijha/DSA/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/suravijha/DSA/tree/master/0233-number-of-digit-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/suravijha/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0470-implement-rand10-using-rand7](https://github.com/suravijha/DSA/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/suravijha/DSA/tree/master/0478-generate-random-point-in-a-circle) |
 | [0519-random-flip-matrix](https://github.com/suravijha/DSA/tree/master/0519-random-flip-matrix) |
