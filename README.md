@@ -48,6 +48,7 @@ DSA Practice Questions
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/suravijha/DSA/tree/master/0980-unique-paths-iii) |
 | [1254-number-of-closed-islands](https://github.com/suravijha/DSA/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suravijha/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/suravijha/DSA/tree/master/1470-shuffle-the-array) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/suravijha/DSA/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -162,6 +163,7 @@ DSA Practice Questions
 | [0042-trapping-rain-water](https://github.com/suravijha/DSA/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/suravijha/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/suravijha/DSA/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suravijha/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/suravijha/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/suravijha/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String
@@ -282,6 +284,7 @@ DSA Practice Questions
 | [0703-kth-largest-element-in-a-stream](https://github.com/suravijha/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/suravijha/DSA/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/suravijha/DSA/tree/master/0981-time-based-key-value-store) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suravijha/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/suravijha/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suravijha/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suravijha/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -381,6 +384,7 @@ DSA Practice Questions
 | [0853-car-fleet](https://github.com/suravijha/DSA/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/suravijha/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/suravijha/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/suravijha/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/suravijha/DSA/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/suravijha/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suravijha/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
