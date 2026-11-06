@@ -59,6 +59,7 @@ DSA Practice Questions
 | [2097-valid-arrangement-of-pairs](https://github.com/suravijha/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suravijha/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suravijha/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2747-count-zero-request-servers](https://github.com/suravijha/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/suravijha/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/suravijha/DSA/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suravijha/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -316,6 +317,7 @@ DSA Practice Questions
 | [0519-random-flip-matrix](https://github.com/suravijha/DSA/tree/master/0519-random-flip-matrix) |
 | [0645-set-mismatch](https://github.com/suravijha/DSA/tree/master/0645-set-mismatch) |
 | [0981-time-based-key-value-store](https://github.com/suravijha/DSA/tree/master/0981-time-based-key-value-store) |
+| [2747-count-zero-request-servers](https://github.com/suravijha/DSA/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suravijha/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/suravijha/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -389,6 +391,7 @@ DSA Practice Questions
 | [2089-find-target-indices-after-sorting-array](https://github.com/suravijha/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/suravijha/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/suravijha/DSA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2747-count-zero-request-servers](https://github.com/suravijha/DSA/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/suravijha/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/suravijha/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suravijha/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -508,6 +511,7 @@ DSA Practice Questions
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/suravijha/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0220-contains-duplicate-iii](https://github.com/suravijha/DSA/tree/master/0220-contains-duplicate-iii) |
+| [2747-count-zero-request-servers](https://github.com/suravijha/DSA/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suravijha/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/suravijha/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suravijha/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
