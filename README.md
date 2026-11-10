@@ -75,6 +75,7 @@ DSA Practice Questions
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/suravijha/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/suravijha/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3686-number-of-stable-subsequences](https://github.com/suravijha/DSA/tree/master/3686-number-of-stable-subsequences) |
+| [3693-climbing-stairs-ii](https://github.com/suravijha/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suravijha/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/suravijha/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/suravijha/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -116,6 +117,7 @@ DSA Practice Questions
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suravijha/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/suravijha/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3686-number-of-stable-subsequences](https://github.com/suravijha/DSA/tree/master/3686-number-of-stable-subsequences) |
+| [3693-climbing-stairs-ii](https://github.com/suravijha/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/suravijha/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
