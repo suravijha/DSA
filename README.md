@@ -230,6 +230,7 @@ DSA Practice Questions
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/suravijha/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/suravijha/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/suravijha/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/suravijha/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -489,6 +490,7 @@ DSA Practice Questions
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/suravijha/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/suravijha/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/suravijha/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/suravijha/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/suravijha/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/suravijha/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/suravijha/DSA/tree/master/3886-sum-of-sortable-integers) |
